@@ -1,2 +1,2 @@
 # Watsup-development
-This Repository to develop and chat the application
+This is real time base class methods
